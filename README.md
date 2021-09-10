@@ -22,7 +22,7 @@ Model results:
 
 For model evaluation, there are two industry standard metrics to measure model performance. The first one is referred as optimal dataset scale (ODS) which employs a fixed threshold for all images in a dataset. The second is called optimal image scale (OIS) which selects an optimal threshold for each image. For the two metrics, the higher the better.
 
-	          ODS	        OIS
+ODS	        OIS
 		  
 RCF	        0.757982	0.775395
 
