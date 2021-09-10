@@ -14,11 +14,11 @@ Model design:
 
 Model results:
 
-![image](https://user-images.githubusercontent.com/75347096/132914163-a9c62548-e8a7-4128-a399-04297f9ff947.png)
-![image](https://user-images.githubusercontent.com/75347096/132914170-c075d1e2-3364-4d0d-961d-b8b597ed5e55.png)
+![image](https://user-images.githubusercontent.com/75347096/132917991-110a6c88-2175-4faa-b232-eaadc526d3c2.png)
+![image](https://user-images.githubusercontent.com/75347096/132918005-e161d4fc-5163-480d-9dbf-bd192e56f73f.png)
 
-![image](https://user-images.githubusercontent.com/75347096/132914222-7cfa60c5-45e7-4816-b786-2c34b55c1fbe.png)
-![image](https://user-images.githubusercontent.com/75347096/132914236-24896bfb-49ce-4404-a246-ad243c748ae5.png)
+![image](https://user-images.githubusercontent.com/75347096/132918020-a43dbb41-e4ce-4d5b-b4fc-a65e440a2c8d.png)
+![image](https://user-images.githubusercontent.com/75347096/132918028-24ad84c3-3afb-408e-af9b-b26e64e45576.png)
 
 For model evaluation, there are two industry standard metrics to measure model performance. The first one is referred as optimal dataset scale (ODS) which employs a fixed threshold for all images in a dataset. The second is called optimal image scale (OIS) which selects an optimal threshold for each image. For the two metrics, the higher the better.
 
