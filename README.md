@@ -9,9 +9,11 @@ https://github.com/Walstruzz/edge_eval_python
 The dataset utilized in this project is BSDS500, which is a popular dataset for edge detection.
 
 Model design:
+
 ![image](https://user-images.githubusercontent.com/75347096/132914105-3e972c01-fc0b-4d3a-b675-2fb941b9688f.png)
 
 Model results:
+
 ![image](https://user-images.githubusercontent.com/75347096/132914163-a9c62548-e8a7-4128-a399-04297f9ff947.png)
 ![image](https://user-images.githubusercontent.com/75347096/132914170-c075d1e2-3364-4d0d-961d-b8b597ed5e55.png)
 
